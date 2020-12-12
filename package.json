@@ -1,6 +1,6 @@
 {
   "name": "favicons-webpack-plugin",
-  "version": "4.2.0",
+  "version": "4.2.1",
   "description": "Let webpack generate all your favicons and icons for you",
   "main": "src/index.js",
   "files": [
@@ -66,7 +66,7 @@
     "@types/favicons": "5.5.0",
     "cache-loader": "^4.1.0",
     "camelcase": "^5.3.1",
-    "favicons": "^6.2.0",
+    "favicons": "dermoumi/favicons#v6.2.1-alpha.0",
     "find-cache-dir": "^3.2.0",
     "find-root": "^1.1.0",
     "loader-utils": "^1.2.3",
